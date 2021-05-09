@@ -1,2 +1,2 @@
 # Paddle-game
-JA Vanilla Project: Simple Paddle Game
+JS Vanilla Project: Simple Paddle Game
